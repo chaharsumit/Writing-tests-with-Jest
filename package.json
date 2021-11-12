@@ -1,0 +1,23 @@
+{
+  "name": "Writing-tests-with-Jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaharsumit/Writing-tests-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaharsumit/Writing-tests-with-Jest/issues"
+  },
+  "homepage": "https://github.com/chaharsumit/Writing-tests-with-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
